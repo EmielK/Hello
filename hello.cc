@@ -2,5 +2,5 @@
 
 int main()
 {
-  std::cout << "Hello World\n";      //Printing Hello World in the Terminal
+  std::cout << "Hello Woorld\n";     //Printing Hello World in the Terminal
 }
